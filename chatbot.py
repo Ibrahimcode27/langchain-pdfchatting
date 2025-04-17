@@ -16,7 +16,7 @@ import fitz
 from docx import Document
 
 # ✅ Set your Gemini API Key
-os.environ["GEMINI_API_KEY"] = "AIzaSyCmYCpSv-0G1oaEuTcO8cLy91JfmB3AjA0"
+os.environ["GEMINI_API_KEY"] = "<<<<<<<<<<keys>>>>>>>>>>"
 genai.configure(api_key=os.getenv("GEMINI_API_KEY"))
 
 # ✅ Initialize PaddleOCR Model

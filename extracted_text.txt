@@ -1,0 +1,2747 @@
+1 
+ 
+MAGNETIC EFFECT OF CURRENT & MAGNETISM 
+ 
+                  MULTIPLE CHOICE TYPE QUESTIONS 
+ 
+1. 
+In the given figure, what is the magnetic 
+field induction at point O? 
+ 
+(A) 
+ 
+(B) 
+ 
+ 
+ 
+(C) 
+ 
+ 
+ 
+(D) 
+ 
+Sol. C 
+ 
+B0 =
+1
+2
+3
+| B
+B
+B |
+
+
+
+
+ 
+ 
+B1 = 0  B0 = B2 + B3 
+ 
+ B0 =
+0
+0
+I
+I
+1
+1
+2
+2r
+2 2
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ B0 = 
+0
+I
+I
+4r
+4 r
+
+
+
+ 
+ 
+O
+I
+r
+ 
+2. 
+Electrons at rest are accelerated by a potential of V volt. 
+These electrons enter the region of space having a uniform, 
+perpendicular magnetic induction field B. The radius of the 
+path of the electrons inside the magnetic field is 
+ 
+(A) 1
+mV
+B
+e  
+  
+(B) 1
+2mV
+B
+e  
+ 
+ 
+(C) V
+B  
+  
+(D) 1
+V
+B
+e  
+Sol. B 
+0I
+4 r
+
+
+0
+0
+I
+I
+4r
+2 r
+
+
+
+
+0
+0
+I
+I
+4r
+4 r
+
+
+
+
+0
+0
+I
+I
+4r
+4 r
+
+
+
+
+
+ 
+2 
+ 
+ 
+The gain in K.E. of the electron after moving through the 
+potential difference  
+ 
+ V = eV = 1
+2mv2 
+ 
+ 
+ v = 
+2eV
+m  
+ 
+   r = mv
+1
+2mV
+eB
+B
+e
+
+ 
+ 
+3. 
+An infinitely long straight conductor is 
+bent into shape as shown in figure. It 
+carries a current I A. and the radius of 
+circular loop is r metre. Then the 
+magnetic induction at the centre of the 
+circular loop is: 
+ 
+ 
+(A) 0 
+  
+(B)  
+ 
+(C) 
+ 
+  
+(D) 
+ 
+Sol. D 
+ 
+B0 =B1 – B2 + B3 
+ 
+  B0 = 
+i
+i
+i
+4 r
+2r
+4 r
+
+
+
+
+
+
+
+
+
+ 
+ 
+ B0 =
+i [
+2 r
+
+
+
+
+. 
+1
+3
+2
+ 
+ 
+ 
+ 
+4. 
+In a hydrogen atom the electron is making 6.6  1015 
+revolutions per second in a circular orbit of radius 0.53
+. 
+0i (
+1)
+2 r
+
+
+
+0i (
+1)
+2 r
+
+
+
+0
+A
+
+ 
+3 
+ 
+The field of induction produced at the position of the nucleus 
+is approximately (T - Tesla). 
+ 
+(A)  zero 
+  
+(B) 3T 
+ 
+ 
+(C) 4 T 
+  
+(D) 0.4T 
+Sol. C 
+ 
+B =
+0i
+2R
+, i = q
+2
+
+ 
+ 
+ = 2 6.6  1015 
+ 
+B = 
+7
+19
+15
+10
+4
+10
+1.6 10
+6.6 10
+3.98
+4 T
+2 0.53 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+5. 
+Alpha particles (m = 6.7  1027 kg, q = +2e) are 
+accelerated from rest through a potential difference of 6.7 
+kV. Then, they enter a magnetic field B = 0.2 T 
+perpendicular to them direction of their motion. The radius 
+of the path described by them is 
+ 
+(A)  8.375 m   
+(B)  8.375 cm  
+ 
+(C)  infinity 
+  
+(D)  none of these 
+Sol. B 
+ 
+r = mV
+qB , v = 
+2k
+m  
+ 
+ r = 
+2km
+qB  
+ 
+ = 
+3
+19
+27
+19
+2 6.7 10
+2 1.6 10
+6.7 10
+2 1.6 10
+0.2
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ = 
+1
+6.7 10
+8
+
+
+ = 0.08375 m = 8.375 cm 
+
+ 
+4 
+ 
+6. 
+A long straight wire along the z-axis carries a current I in the 
+negative z direction. The magnetic vector field  at a point 
+having coordinates (x, y) in the z = 0 plane is 
+ 
+(A) 
+   
+(B) 
+ 
+ 
+ 
+(C) 
+ 
+  
+(D) 
+ 
+Sol. A 
+ 
+
+
+2
+2
+ˆ
+ˆ
+ˆ
+kx xi
+yj
+ˆ
+ˆ
+ˆ
+B
+d
+r
+x
+y
+
+
+
+
+
+ 
+ 
+ˆ
+B
+BB
+
+
+=
+
+
+
+
+0
+2
+2
+ˆ
+ˆ
+I yi
+xj
+2
+x
+y
+
+
+
+
+ 
+(x, y) 
+z 
+x 
+y 
+ 
+ 
+7. 
+A circular coil of radius r carries a current I.  If the same coil 
+is now changed into a square loop carrying the same current, 
+magnitude of its magnetic moment will 
+ 
+(A) increase 
+  
+(B) decrease 
+ 
+(C) remain constant  
+(D) change depending upon 
+the value of r 
+Sol. B 
+ 
+A1 = r2 
+ 
+A2 = L2 
+ 
+2r = 4L 
+ 
+L = 
+r
+2
+ 
+ 
+A2 = 
+2 2r
+2
+
+ 
+ 
+ A2> A1 
+
+B
+
+
+
+
+o
+2
+2
+ˆ
+ˆ
+yi
+xj
+I
+2
+x
+y
+
+
+
+
+
+
+
+
+o
+2
+2
+ˆ
+ˆ
+xi
+yj
+I
+2
+x
+y
+
+
+
+
+
+
+
+
+o
+2
+2
+ˆ
+ˆ
+xj
+yi
+I
+2
+x
+y
+
+
+
+
+
+
+
+
+o
+2
+2
+ˆ
+ˆ
+xi
+yj
+I
+2
+x
+y
+
+
+
+
+
+ 
+5 
+ 
+ 
+Hence, magnetic moment will increase. 
+ 
+8. 
+Through two parallel wires A and B, 10 A and 2 A currents 
+are passed, respectively, in opposite directions. If the wire A 
+is infinitely long and the length of wire B is 2 m, then what 
+will be the force on the conductor B which is situated 10 cm 
+away from A? 
+ 
+(A) 6  105  N   
+(B) 9  105 N  
+ 
+(C) 8  105 N   
+(D) 10  105 N 
+Sol. C 
+ 
+F = 
+0 1 2
+I I
+2 d
+
+
+
+ = 
+7
+2
+4
+10
+10
+2
+2
+2
+10 10
+
+
+
+
+
+
+
+ = 8  105 
+N 
+A 
+B
+ 
+9. 
+An alpha particle and proton have same velocity when enter 
+uniform magnetic field. The period of rotation of proton will 
+be 
+ 
+(A) double of that of  particle  
+ 
+(B) four times that of  particle 
+ 
+(C) one half times that of  particle 
+ 
+(D) same as that of  particle. 
+Sol. C 
+ 
+T  r 
+ 
+r = mv
+qB  
+
+ 
+6 
+ 
+ 
+ T m
+q  
+ 
+10. A magnitude field of 
+ tesla exerts a force of 
+ 10–
+10N on a particle having charge of 1  10–9C and moving in 
+x – y plane. The velocity of particle is 
+ 
+(A) 
+ms–1  
+(B) 
+ms–1 
+ 
+(C) 
+ms–1  
+(D) 
+ms–1  
+Sol. C 
+ 
+F
+ = 
+
+q v
+B
+
+
+
+ = [
+
+
+
+10
+9
+ˆ
+ˆ
+ˆ
+ˆ
+ˆ
+4i
+3j
+10
+1 10
+xi
+yj
+0.004k
+
+
+
+
+
+
+
+
+
+= 
+9
+ˆ
+ˆ
+1 10
+x
+0.004j
+y
+0.004i
+
+
+
+
+
+
+
+ 
+ 
+3  1010 = x  0.004  109 
+ 
+x = 3
+4100 = 75 
+ 
+y = 100 
+ 
+11. A proton, a deuteron and an particle having same kinetic 
+energy are moving in circular trajectories in a constant 
+magnetic field. If rP ,rd and r denote respectively the radii of 
+trajectories of these particles, then,  
+ 
+(A) r = rP<rd  
+ 
+(B) r>rP>rd 
+ 
+ 
+(C) r = rd>rp 
+ 
+ 
+(D) rP = rd = r 
+Sol. A 
+ 
+r = 
+2km
+qB  
+ 
+r = 
+m
+q  
+
+ˆ
+0.004k
+
+
+ˆ
+ˆ
+4i
+3j
+
+
+
+ˆ
+ˆ
+75i
+100j
+
+
+
+ˆ
+ˆ
+75i
+100j
+
+
+
+ˆ
+ˆ
+75i
+100j
+
+
+
+
+ˆ
+ˆ
+75i
+100j
+
+
+
+ 
+7 
+ 
+ 
+rP
+2m
+q  
+ 
+r = 
+4m
+2q  
+ 
+ rP = r<rd 
+ 
+12. A circular loop of mass m and radius r is 
+kept in a horizontal position (X-Y plane) 
+on a table as shown in figure. A uniform 
+magnetic field B is applied parallel to x-
+axis. The current I in the loop, so that its 
+one point just lifts from the table, is:  
+ 
+(A) mg/r2B                      (B) mg/rB 
+ 
+(C) mg/2rB                   (D) rB/mg 
+   
+ 
+ 
+Sol. B 
+ 
+The magnetic moment of the loop is  = r2 
+I. 
+ 
+|
+|
+
+
+
+
+ 
+  = r2 IB. 
+ 
+For the loop to be just lifted,  
+ 
+mg r =  r2 IB   I = mg
+rB
+. 
+ 
+ 
+ 
+Y
+X
+I
+ 
+
+ 
+8 
+ 
+13. The magnetic field strength at a point P 
+distant r due to an infinite straight wire as 
+shown in the figure carrying a current i is:   
+ 
+(A) 0 
+(B) 0 i/ 22 r 
+ 
+(C) (0 i/2r) (D) 
+0i 2
+2
+4 r
+
+
+
+
+
+
+
+ 
+ 
+ 
+r
+r
+P
+i
+ 
+Sol. D 
+ 
+Magnetic field at P due to each of the straight wire will be 
+directed inward and has the magnitude 
+0i
+4 r
+
+(sin 45 + sin 90) 
+ 
+Thus net field at P is  
+0
+2
+i
+1
+1
+4 r
+2
+
+
+
+
+
+
+ = 
+0i (2
+2)
+4 r
+
+
+
+ 
+ 
+14. A wire bent in the form of a sector of radius 
+r subtending an angle o at centre, as shown 
+in figure is carrying a current i. The 
+magnetic field at O is: 
+ 
+(A) 
+0i
+2r
+ 
+(B) 
+0i ( /180 )
+2r
+
+
+ 
+ 
+ 
+
+O
+r
+ 
+(C) 
+0i ( / 360 )
+2r
+
+
+  (D) zero 
+Sol. C 
+ 
+The magnetic field  B = 
+0
+B
+360
+
+
+;  
+ 
+where B0 = magnetic field due to a circular loop  = 
+i
+2r
+
+ 
+ 
+  B = 
+i
+i
+360
+2r
+2r
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+
+ 
+9 
+ 
+15. The conductor abcd carries a 
+current of 4 A. The field at the 
+centre O of the circular part of it is
+ 
+(a) 
+5
+8
+10
+T
+3
+
+
+ 
+(b) 2 10–5 T 
+ 
+(c)
+4
+8
+10
+T
+3
+
+
+ 
+(d) 2 10–4T 
+ 
+ 
+Sol. B = 
+= 
+ = 2  10–5 T 
+ 
+ (b) 
+ 
+16. A copper wire having resistance 0.01 ohm in each metre is 
+used to wind a 400 turn solenoid of radius 1 cm and length 
+20 cm. Find the e.m.f of the battery which when connected 
+across the solenoid will produce a magnetic field 1  10–2 
+tesla at the centre of solenoid. 
+ 
+(a) 1 volt 
+  
+(b) 2 volts 
+ 
+ 
+(c) 2.5 volts 
+  
+(d) 3 volts 
+Sol. One turn has a length = 2r = 2 1  10–2m 
+ 
+No. of turns  = 400 
+ 
+ Total length  = 400  2 10–2 m 
+ 
+        Resistance (R) 
+= 400  2 10–2 0.01 ohm
+ = 800  10–4 ohm 
+ 
+       Magnetic field 
+= 0ni 
+ 
+                 1  10–2 
+= 
+ 
+ 
+O
+a
+3 cm
+d
+c
+b
+A
+900
+r
+ni
+
+
+
+
+2
+4
+0
+2
+7
+10
+3
+4
+4
+3
+2
+10
+
+
+
+
+
+
+
+i
+
+
+
+2
+0
+10
+20
+400
+
+ 
+10 
+ 
+ 
+           But i  = 
+ 
+ 
+ 
+ 
+ E = 
+ 
+ 
+    = 1 volt 
+ 
+ (a) 
+ 
+17. Currents of 3 A, 1 A and 2 A 
+flow through the long, 
+straight and parallel 
+conductors a, b and c 
+respectively as shown. A 
+length 0.5 m of wire b 
+experiences a force 
+of  
+ 
+ 
+(a) 10.0  10–6 N from right to left 
+ 
+ 
+(b) 10.0  10–6 N from left to right 
+ 
+(c) 5.0  10–6 N from right to left 
+ 
+ 
+(d) 5.0  10–6 N from left to right 
+Sol. Force between the conductors a and b = 
+ towards right. 
+ 
+Force between the conductors c and b = 
+ N/m towards left. 
+ 
+N/m towards right 
+2
+10
+8
+
+
+
+
+E
+R
+E
+
+
+
+
+
+
+
+
+
+
+800
+10
+400
+10
+1
+10
+20
+4
+0
+2
+2
+E
+7
+4
+4
+10
+4
+400
+10
+20
+10
+800
+
+
+
+
+
+
+
+
+
+
+ 
+a 
+c
+3cm 4cm
+b 
+N/m
+10
+100
+5
+.
+0
+2
+4
+7
+2
+1
+0
+1
+
+
+
+
+
+
+
+
+r
+i
+i
+F
+7
+2
+0
+2
+10
+50
+5
+.
+0
+10
+4
+1
+2
+2
+4
+
+
+
+
+
+
+
+
+
+
+
+
+F
+7
+10
+50
+
+
+
+
+)
+(
+2
+1
+F
+F
+
+ 
+11 
+ 
+ 
+ (d) 
+ 
+18. Alpha particles (m = 6.7  10–27 kg, q = + 2e) are accelerated 
+from rest through a potential difference of 6.7 kV. Then they 
+enter a magnetic field B = 0.2 T perpendicular to their 
+direction of motion. The radius of the path described by them 
+is 
+ 
+(a) 8.375 m  
+  
+(b) 8.375 cm  
+ 
+(c) infinity 
+  
+(d) none of the above 
+Sol. 
+ = 8.375 10–2 m  
+ 
+ (b) 
+ 
+19. A particle of charge +q and mass 
+m moving under the influence of a 
+uniform electric field E  and a 
+uniform 
+magnetic 
+field 
+B  
+follows a trajectory from P to Q 
+as shown in Figure. 
+ 
+The velocity at P and Q are v  
+and  2v . Which of the 
+following 
+statement/s 
+is/are 
+correct? 
+ 
+(a)  
+ 
+m
+q
+V
+B
+qB
+Km
+qB
+mv
+r
+2
+1
+2
+
+
+
+19
+27
+3
+10
+6
+.
+1
+2
+10
+7
+.
+6
+10
+7
+.
+6
+2
+2
+.
+0
+1
+
+
+
+
+
+
+
+
+
+
+i
+
+k
+
+i
+
+j
+
+
+
+
+
+
+
+qa
+mv
+E
+2
+4
+3
+ y
+v
+a
+P
+x
+Q 
+2v
+2a
+B
+
+E
+
+
+
+
+
+ 
+12 
+ 
+ 
+ (b) Rate of work done by the electric field at P is 
+ 
+ 
+(c)  Rate of work done by the electric field at P is zero. 
+ 
+(d) Rate of work done by both of the fields at Q is different. 
+Sol. Work done by electric filed = Gain in kinetic energy 
+ 
+ (qE)  (2a) = 
+ 
+ 
+ qE 2a = 
+ 
+ 
+     (a) 
+ 
+Rate of work done by electric filed at P = 
+ = (qE) .v 
+ 
+ = 
+ 
+ 
+ = 
+ 
+ 
+ 
+ (b)  
+ 
+20. A beam of charged particles of K.E. = 1 keV and q = 1.6  
+10–19  C and two masses 8  10–22 kg and 16  10–27 kg 
+come out of an accelerator tube. And strike a plate at 
+distance of 1 cm from the end of the tube, where the 
+particles emerge perpendicularly. The value of the smallest 
+magnetic field which can prevent the beam from striking 
+the plate is  
+ 
+(a) 1.414 T 
+  
+(b) 2.828 T 
+ 
+ 
+(c) 4.242 T 
+  
+(d) 5.656 T 
+
+
+
+
+
+
+a
+mv3
+4
+3
+]
+)
+2
+[(
+2
+1
+2
+2
+v
+v
+m
+
+
+
+
+
+
+
+
+
+
+qa
+mv
+E
+v
+m
+2
+2
+4
+3
+3
+2
+1
+
+
+v
+F
+
+
+
+
+
+
+
+qa
+mv
+qv
+2
+4
+3
+
+
+
+
+
+
+a
+mv
+4
+3
+2
+
+ 
+13 
+ 
+Sol. 
+ should be out of the paper. Let 
+F be the magnetic force acting on 
+the particles, where F = (mv2/r) = 
+qvB since v is perpendicular to B. 
+This force does not change the 
+speed of the particles but it bends 
+them into a circular arc of radius 
+r, where r = 
+ The beam will 
+not strike the plate, if the field is 
+minimum, r is maximum. Hence 
+ 
+ 
+ 
+ 
+At the point A (see Figure), the 
+beam is horizontal. Hence, the 
+beam must describe a semi-
+circle, ABD with C as centre. 
+Hence, rmax = 1.0 cm = 10–2 m. 
+ 
+ Bmin 
+ = 
+ 
+ 
+Now      
+ = K.E. = 1.0 keV 
+= 103eV 
+ 
+= 103 1.6 10–19 J 
+ 
+ 
+ or       v  
+= (2  103 1.6  10-19 J/m)1/2 . 
+ 
+ Bmin 
+= 
+ 
+
+B
+.
+
+
+
+
+
+qB
+mv
+.
+min
+max
+
+
+
+
+
+
+qB
+mv
+r
+ 
+Plate 
+B 
+
+A
+Beam 
+1.0 cm 
+)
+10
+10
+6
+.
+1
+(
+10
+2
+19
+2
+
+
+
+
+
+
+
+mv
+q
+mv
+2
+2
+1mv
+2
+19
+2
+/
+1
+19
+3
+10
+10
+6
+.
+1
+10
+6
+.
+1
+10
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m
+m
+
+ 
+14 
+ 
+ 
+   =
+ 
+ 
+   = 
+ 
+ 
+Hence, Bmin is more if m is more. The higher mass can be 
+prevented 
+from 
+striking 
+the 
+plate, 
+if  
+Bmin 
+ 
+ 
+ = 
+ T = 1.414 T 
+ 
+ (a) 
+ 
+21. A wire of length l carrying a current i is bent into a circle and 
+placed in a magnetic field B. If the coil has only one turn, 
+the maximum torque () is  
+ 
+(a) 2l2i B/ 
+  
+(b) l2i B/2 
+ 
+ 
+(c) l2i B/4 
+  
+(d) l2i B/ 
+Sol. A current carrying closed loop has a magnetic moment,  = 
+iA associated with it, where A = area of the coil. 
+ 
+l = 2r or  r = 
+ 
+ 
+Hence, A = r2 = 
+ 
+ 
+ = iA= 
+. 
+ 
+If the axis of the circular coil makes an angle  with the field, 
+ 
+torque = B sin . 
+ 
+So maximum torque when  = 90, 
+ 
+i.e., B = 
+. 
+2
+/
+1
+42
+16
+2
+21
+19
+3
+10
+56
+.
+2
+10
+2
+.
+3
+)
+10
+6
+.
+1
+(
+10
+6
+.
+1
+10
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+m
+m
+13
+2
+/
+1
+26
+10
+1
+.
+1
+)
+10
+25
+.
+1
+(
+
+
+
+
+
+m
+m
+13
+27
+10
+25
+.
+1
+10
+16
+
+
+
+
+)
+2
+(
+)
+25
+.
+1
+6
+.
+1
+(
+
+
+.
+2 
+
+
+
+
+
+
+l
+
+
+
+
+
+
+
+
+
+
+4
+4
+2
+2
+2
+l
+l
+
+4
+2
+li
+4π
+B
+il 2
+
+ 
+15 
+ 
+ 
+ (c) 
+ 
+22. A disc of mass m has a charge Q 
+distributed on its surface. It is rotating 
+about an XX with a angular velocity . 
+The force acting on the disc is, the 
+magnetic field is B. 
+ 
+(A) zero  
+(B)RB/ 
+ 
+(C) 2QBR 
+(D)none of these 
+ 
+
+Q 
+X 
+X
+B
+ 
+Sol. Since all the currents form closed loops in the uniform 
+magnetic field, the force acting on the disc is zero. 
+ 
+ 
+ (A) 
+ 
+23. A straight conductor of mass m and carrying 
+a current i is hinged at one end and placed in 
+a plane perpendicular to the magnetic field of 
+intensity B
+as shown in the figure. At any 
+moment if the conductor is let free, then the 
+angular acceleration of the conductor will be  
+(neglect gravity) 
+ 
+(A) 2iB
+3m  
+(B) 3iB
+2m  
+ 
+(C)  iB
+2m  
+(D) 
+3i
+3mB 
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+L
+B
+i 
+ 
+Sol. The force acting on the elementary portion of the current 
+carrying conductor is given as, 
+
+ 
+16 
+ 
+ 
+ 
+dF = i(dr)B sin900 
+ 
+ dF = iBdr 
+ 
+The torque applied by dF about O = d = rdF 
+ 
+  The total torque about O =  = d
+r(iBdr)
+
+
+
+ 
+ 
+L
+2
+0
+iBL
+iB rdr
+2
+
+
+
+
+ 
+ 
+The angular acceleration  = I
+ 
+ 
+2
+2
+iBL
+mL
+2
+3
+
+
+
+
+
+
+
+
+
+
+
+
+3iB
+2m
+
+ 
+ 
+dF
+r 
+O 
+ 
+ 
+ (B) 
+ 
+ 
+ 
+24. In the figure shown a coil of single turn is 
+wound on a sphere of radius r and mass m. 
+The plane of the coil is parallel to the 
+inclined plane and lies in the equatorial plane 
+of the sphere. If sphere is in rotational 
+equilibrium the value of B is (current in the 
+coil is i)  
+ 
+(A) mg
+ir
+ 
+ (B) mgsin
+i
+
+
+ 
+ 
+(C) mgrsin
+i
+
+
+ 
+(D) none of these 
+ 
+B
+
+
+o 
+ 
+ 
+ 
+
+ 
+17 
+ 
+Sol. The gravitational torque must be counter 
+balanced by the magnetic torque about 0, 
+for equilibrium of the sphere. The 
+gravitational torque 
+ 
+  = gr = | mg
+r
+
+
+| 
+ 
+ gr  = mgr sin 
+ 
+The magnetic torque 
+m
+B
+
+
+
+
+ 
+ 
+Where the magnetic moment of the coil 
+ 
+
+O
+mg
+r
+ 
+ =  = (i r2)  
+ 
+ m = ir2 B sin  
+ 
+ ir2 B sin = mgr sin  
+ 
+ B = mg
+ir
+ 
+ 
+ (A) 
+ 
+INTEGERS TYPE QUESTIONS 
+ 
+25. Find the magnetic induction B at a point on the axis due to 
+an infinite thin conductor with semicircular cross-section of 
+radius R = 10 cm carrying a uniform current i =  amp. 
+Sol. Let R be the radius of semicircular 
+cross-section and O, a point on the 
+axis. Considering an element dx1 
+carrying current di1 
+ 
+ 
+ 
+ 
+R
+dx
+i
+di
+
+
+1
+1
+ 
+i
+dx2
+dx1
+d
+
+dB1
+
+R
+dB2
+dB
+O
+
+ 
+18 
+ 
+ 
+Induction dB1 at O due to di1 is 
+ 
+ 
+This is directed normal to line joining the element to O. 
+ 
+ 
+ 
+ 
+  = 
+ 
+ 
+Field dB2 due to corresponding element dx2 points in a 
+direction shown.  Resolving 
+, 
+sin acting 
+on same line and 
+ acting on opposite direction 
+and hence cancelling each other. 
+ 
+ 
+ = 4 T 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+R
+di
+dB
+o
+
+
+2
+1
+
+
+
+
+
+
+
+
+Rd
+R
+i
+R
+dx
+R
+i
+dB
+o
+o
+2
+2
+1
+1
+2
+2
+
+
+
+d
+R
+i
+o
+2
+2
+2
+1 and
+B
+d
+B
+d
+
+
+1
+B
+d
+2
+B
+and
+sin
+d
+
+
+
+
+cos
+B
+cos
+B
+1
+2
+d
+d
+R
+π
+i
+μ
+d
+R
+i
+d
+B
+2
+0
+
+
+
+
+
+
+
+
+
+
+
+
+sin
+2
+sin
+B
+0
+2
+0
+0
+1
+
+ 
+19 
+ 
+26. Two 
+concentric 
+coplanar 
+semicircular conductors form part of 
+two current loops as shown in the 
+figure. If their radii are 11 cm and 4 
+cm calculate the magnetic induction 
+at the centre. 
+ 
+Sol. Magnetic induction at O = 
+ 
+ 
+  = 
+ 
+ 
+  = 
+ 
+ 
+  = 50  weber/m2 (inward) 
+ 
+27. Two particles P and Q, each having 
+a mass M = 1 mg are placed at a 
+separation D = 4 m in a uniform 
+magnetic field B = 1 T as shown in 
+figure. They have opposite charges 
+of equal magnitude of 200 C. At 
+time t = 0 the particles are projected 
+towards each other, each with a 
+speed v. Suppose the coulomb force 
+between the charges is switched off. 
+Find the maximum value vm of the 
+projection speed so that the two 
+particles do not collide. 
+ 
+ 
+ 
+20 A 
+60 A
+40 A
+40 A
+20 A 
+P
+O
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+1
+2
+1
+20
+20
+2
+4
+1
+40
+40
+2
+4
+1
+r
+r
+r
+r
+o
+o
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+1
+7
+1
+1
+20
+8
+10
+4
+r
+r
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+2
+7
+10
+11
+1
+10
+4
+1
+20
+8
+10
+4
+ 
+v
+v
+q
+q
+B
+
+ 
+20 
+ 
+Sol. Force acting on P due to the magnetic 
+field = Bqv. 
+ 
+This particle P will describe a circle 
+in the clockwise direction whose 
+radius is obtained from the equation
+ 
+ Bqv = 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The particle Q will describe a circle in the anticlockwise 
+direction 
+ 
+ 
+The two particles do not collide if 
+ 
+ 
+ 
+ 
+ 
+Maximum value of the projection speed,  
+ 
+ 
+ = 40 cm/s 
+ 
+28. A copper wire with cross-
+sectional area 2.5 mm2 and bent to 
+make three sides of a square can 
+turn about a horizontal axis OO. 
+The wire is located in a uniform 
+vertical magnetic field. Find the 
+magnetic induction, if on passing 
+a current I = 16 A deflects by an 
+angle  
+1
+2
+r
+mv
+qB
+mv
+r 
+1
+v
+P
+B
+v
+Q
+qB
+mv
+r
+
+2
+d
+r
+r
+
+2
+1
+d
+qB
+mv
+qB
+mv
+
+
+2m
+qBd
+vmax 
+ 
+O
+O 
+b
+a
+B
+ 
+ 
+
+ 
+21 
+ 
+ = 20(Specific gravity of 
+copper = 8.9). 
+Sol. The deflection of the system is 
+due to the force on the wire, due 
+to the magnetic field B and the 
+force is given by = BIa, 
+ 
+where a is the side of the square 
+and this force acts in the 
+horizontal direction. 
+ 
+The moment of the force about the 
+axis of rotation OO 
+  = 
+BIa a cos = Bla2cos 
+ 
+where 
+ = 20. 
+ 
+The weight of the wire is mg and 
+this acts through the centre of 
+gravity of the wire, G lying at a 
+distance of 
+ from OO. 
+ 
+ 
+ 
+ 
+ moment of the weight about OO 
+ 
+  = mga sin  
+ 
+For the equilibrium of the system  
+ 
+ 
+mgasin  = Bia2cos 
+ 
+or  B  = 
+ = 
+ tan  
+ 
+The mass m of the wire is given by 
+ 
+m  = Length of the wire  cross-section  density 
+3
+2
+6
+2
+a
+a
+a
+
+
+ 
+O 
+O
+w
+w
+G
+G2 (w)
+G1 (2w)
+a
+2
+a
+6
+3
+2
+3
+2
+
+
+cos
+sin
+3
+2
+2
+Ia
+mga
+Ia
+mg
+3
+2
+
+ 
+22 
+ 
+ 
+   = 3a  (2.5  10–6 m2) (8900 kg/m3)  
+ 
+ B  = 
+ tan 20 
+ 
+  = 9900 T 
+ 
+29. A beam of protons with a velocity 4  105 m/sec enters a 
+uniform magnetic field of 0.3 Tesla at an angle of 60o to the 
+magnetic field. Find the radius of the helical path taken by the 
+proton beam. Also find the pitch of the helix, which is the 
+distance travelled by a proton in the beam parallel to the 
+magnetic field during one period of rotation.  
+ 
+[Mass of proton =1.67 10-27 Kg, charge on proton = 1.6  
+10-19 C] 
+Sol. The velocity of particle can be resolved into two 
+components v cos 600, parallel and v sin60 perpendicular 
+to direction of B.  
+ 
+Due to parallel component of velocity (= v cos 60), 
+Lorentz force on proton is zero. 
+ 
+[F = q (v cos 60o) B sin 0 = 0] 
+ 
+Due to perpendicular component of 
+velocity ( = v sin 60o), Lorentz force on 
+proton is 
+ 
+F = q (v sin 60o) B sin 90o = qv B sin 60o. 
+ 
+This force is  to the plane of paper, 
+directed into it. Due to this force, proton 
+will move on a circular path, having axis 
+ 
+a
+a
+
+
+
+
+16
+)
+8
+.
+9
+()
+8900
+()
+10
+5
+.
+2
+(
+3
+3
+2
+6
+ 
+v cos 60o 
+600
+
+ 
+23 
+ 
+along the direction of magnetic field. The 
+radius of this circular path is given by  
+ 
+ 
+ 
+ 
+Due to simultaneous linear motion of proton along the 
+direction of magnetic field, the proton will also move 
+forward along the direction of B i.e. proton will spiral around 
+the direction of .  
+ 
+ 
+Hence, the radius of spiral or helical path is  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ = 1.205  10-2 m 
+ 
+Pitch of the helix = v cos 60o T = v cos 60o 2r/v sin 60o 
+ 
+ = 2 r cot600 = 2  3.14  1.205  102
+ = 4.4 cm. 
+ 
+30. A loop of flexible conducting wire of length 0.5 m lies in a 
+magnetic field of 1.0T perpendicular to the plane of the loop. 
+Show that when a current is passed through the loop, it opens 
+into a circle. Also calculate the tension developed in the wire 
+if the current is 1.57 amp. 
+Sol. Consider small elemental length 
+ of the 
+loop when a current is passed through the 
+loop in clock-wise direction and loop is 
+placed in a downward magnetic field, then 
+ 
+
+
+
+
+2
+o
+o
+o
+m v sin60
+m(v sin60 )
+r
+q v sin60
+B
+qB
+r
+
+
+
+
+
+
+
+
+
+
+
+B
+
+o
+mv sin60
+r
+qB
+
+
+
+27
+5
+19
+(1.67 10
+)
+4 10
+3 / 2
+(1.6 10
+)
+0.3
+
+
+
+
+
+
+
+
+
+1
+3
+
+d
+Bid 
+/2 
+/2 
+B 
+ 
+O 
+2Tsin /2 
+/2 
+/2 
+T cos /2 
+T cos /2 
+T  
+T  
+
+i
+A 
+
+ 
+24 
+ 
+force on each element will be directed 
+radially outward and  to the element. 
+Hence the loop opens into a circle. 
+ 
+Consider an element AB of length d of 
+the circle of radius r subtending an angle 
+ at the centre O. If T is the tension in the 
+wire,  
+ 
+then force towards the centre will be equal to 2T sin (/2) 
+which is balanced by outward magnetic force on the current 
+carrying element (= Bid)   
+ 
+i.e. 2T sin(/2) = Bid 
+ 
+For small angle , sin(/2) = /2 
+ 
+ 
+,  
+ 
+ 
+ 
+ 
+ 
+ 
+Bid
+2T
+Bid
+or
+T
+Bir
+2
+
+
+
+
+
+
+
+
+d
+Putting
+,
+r
+
+
+0.5
+1
+we get
+T
+Bi
+1.57 1.0
+0.125N.
+2
+2
+3.14
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
